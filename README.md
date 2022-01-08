@@ -37,6 +37,8 @@ Move the index finger to move the mouse (Keep the other fingers folded).
 To click, raise the middle finger and quickly bring it close to the index finger (Release the finger immediately if you want to change the mouse position again).
 Refer to the output section below for demonstration.
 
+Exit the program by pressing CTRL+C on the terminal. (For some mysterious reason, pressing 'q' on the frame window doesn't close it) :-)
+
 ### Output:
 The output of running the code on my local machine.
 
