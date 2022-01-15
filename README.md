@@ -49,7 +49,7 @@ The output of running the code on my local machine.
 </p>
 
 ### Note:
-I had some trouble running this code in Linux(Ubuntu), and as of now, this code runs only on windows.
-If anyone knows how to make autopy run in Linux(Ubuntu), or knows an alternative to that, do inform me.
+I had some trouble running this code in Linux(Ubuntu/Fedora), and as of now, this code runs only on windows.
+If anyone knows how to make autopy run in Linux(Ubuntu/Fedora), or knows an alternative to that, do inform me.
 
 Contributors are as always welcomed.
