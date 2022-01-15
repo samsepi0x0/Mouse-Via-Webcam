@@ -6,6 +6,8 @@ This is a simple python script that uses [opencv](opencv.org) libraries to track
 [MediaPipe](https://opensource.google/projects/mediapipe) is a python module developed by Google, which can track both hands for us and
 gives us 20 marks points on each hand.
 
+[Autopy](https://pypi.org/project/autopy/) is a python module that helps us move to mouse and click accordingy.
+
 With the help of these libraries, we can control the mouse on the basis of the movement of the hand.
 
 ### Requirements:
