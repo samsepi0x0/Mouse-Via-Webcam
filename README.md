@@ -41,8 +41,10 @@ Exit the program by pressing CTRL+C on the terminal. (For some mysterious reason
 
 ### Output:
 The output of running the code on my local machine.
-
-![Output.gif](final-cv_AdobeCreativeCloudExpress(1).gif)
+(Apologies for the GIF quality, I know it sucks.)
+<p align="center">
+  <img src="output.gif" alt="Output.gif">
+</p>
 
 ### Note:
 I had some trouble running this code in Linux(Ubuntu), and as of now, this code runs only on windows.
